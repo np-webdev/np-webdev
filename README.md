@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?np-webdev=yourGithubUsername)
-
+![Github stats](https://github-readme-stats.vercel.app/api?username=np-webdev)
 <!--
 **np-webdev/np-webdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
