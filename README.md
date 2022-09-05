@@ -2,7 +2,7 @@
 
 
 
-![my stats](https://github-readme-stats.vercel.app/api?username=np-webdev)
+[](https://github-readme-stats.vercel.app/api?username=np-webdev)
 
 
 
