@@ -22,4 +22,3 @@ Here are some ideas to get you started:
 -->
 
 
-![Zähler](https://[IhrEndpunkt].m.pipedream.net)
