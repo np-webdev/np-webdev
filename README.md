@@ -1,15 +1,10 @@
 ### Hi there 👋 I'm a Junior Fullstack Web Developer
 
 
-
-!(https://github-readme-stats.vercel.app/api?username=np-webdev)
-
+<img align="left" alt="np-webdev GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=np-webdev&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /><br/>
 
 
-<img align="left" alt="np-webdev GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=np-webdev&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
-
-<br/>
 
 ---
 
