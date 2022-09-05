@@ -2,7 +2,7 @@
 
 
 
-[ ](https://github-readme-stats.vercel.app/api?username=np-webdev)
+[s](https://github-readme-stats.vercel.app/api?username=np-webdev)
 
 
 
