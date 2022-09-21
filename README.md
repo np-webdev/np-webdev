@@ -4,7 +4,9 @@
 
 Here are some of my projects:
 
-https://fitness-frontend-deployed.netlify.app/
+[My final project](https://fitness-frontend-deployed.netlify.app/)
+
+[Simple dropdown menu](https://np-webdev.github.io/Dropdown-menu/)
 
 <br/>
 
