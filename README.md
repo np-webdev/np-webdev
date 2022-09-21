@@ -4,7 +4,7 @@
 
 Here are some of my projects:
 
-[My final project](https://fitness-frontend-deployed.netlify.app/)--:{target="_blank"}--
+[My final project](https://fitness-frontend-deployed.netlify.app/)
 
 [Simple dropdown menu](https://np-webdev.github.io/Dropdown-menu/)
 
