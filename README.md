@@ -4,11 +4,9 @@
 
 Here are some of my projects:
 
-[My final project](https://fitness-frontend-deployed.netlify.app/)--{target="_blank"}--
+[My final project](https://fitness-frontend-deployed.netlify.app/)--:{target="_blank"}--
 
 [Simple dropdown menu](https://np-webdev.github.io/Dropdown-menu/)
-
-<a href="http://example.com/" target="_blank">Hello, world!</a>
 
 <br/>
 
