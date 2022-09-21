@@ -8,6 +8,8 @@ Here are some of my projects:
 
 [Simple dropdown menu](https://np-webdev.github.io/Dropdown-menu/)
 
+<a href="http://example.com/" target="_blank">Hello, world!</a>
+
 <br/>
 
 ### Languages and Tools:
